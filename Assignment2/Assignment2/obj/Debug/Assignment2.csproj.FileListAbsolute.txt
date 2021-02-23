@@ -1,0 +1,10 @@
+E:\visual studio\Computer Science\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+E:\visual studio\Computer Science\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+E:\visual studio\Computer Science\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+E:\visual studio\Computer Science\Assignment2\Assignment2\obj\Debug\Assignment2.csprojAssemblyReference.cache
+E:\visual studio\Computer Science\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+E:\visual studio\Computer Science\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+E:\visual studio\Computer Science\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+E:\visual studio\Computer Science\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+E:\visual studio\Computer Science\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+E:\visual studio\Computer Science\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
